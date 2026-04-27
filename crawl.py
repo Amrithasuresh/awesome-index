@@ -257,4 +257,3 @@ def generate_readme(repos):
 if __name__ == "__main__":
     repos = fetch_all_repos()
     generate_readme(repos)
-```
