@@ -41,90 +41,27 @@ STAR_TIERS = [
     "20001..50000", ">50000"
 ]
 
-TRENDING_DAYS = 30
-
 
 # ---------------------------------------------------------------------------
-# FIXED ANCHOR GENERATOR (CRITICAL FIX)
+# ANCHOR FIX
 # ---------------------------------------------------------------------------
 
 def make_anchor(cat):
-    """Deterministic GitHub-safe anchor"""
+    """Generate stable anchor (fix for GitHub jump issue)."""
     anchor = cat.lower()
-    anchor = anchor.encode('ascii', 'ignore').decode()   # remove emojis
-    anchor = re.sub(r'[^\w\s-]', '', anchor)              # remove punctuation
-    anchor = re.sub(r'\s+', '-', anchor)                  # spaces → hyphen
-    anchor = re.sub(r'-+', '-', anchor)                   # collapse
+    anchor = anchor.encode('ascii', 'ignore').decode()
+    anchor = re.sub(r'[^\w\s-]', '', anchor)
+    anchor = re.sub(r'\s+', '-', anchor)
+    anchor = re.sub(r'-+', '-', anchor)
     return anchor.strip('-')
 
 
 # ---------------------------------------------------------------------------
-# HELPERS
+# TRENDING (NEW)
 # ---------------------------------------------------------------------------
 
-def chunk_list(lst, size):
-    for i in range(0, len(lst), size):
-        yield lst[i:i + size]
-
-
-def get_category(repo):
-    name = repo.get("full_name", "").lower()
-    desc = (repo.get("description") or "").lower()
-    topics = [t.lower() for t in repo.get("topics", [])]
-    content = f"{name} {desc} {' '.join(topics)}"
-
-    best_cat = "📦 Miscellaneous"
-    best_score = 0
-
-    for cat_name, keywords, bonus in CATEGORIES:
-        score = 0
-        for kw in keywords:
-            if kw in topics:
-                score += 3
-            elif kw in name:
-                score += 2
-            elif kw in desc:
-                score += 1
-
-        for kw in bonus:
-            if kw in content:
-                score += 1
-
-        if score > best_score:
-            best_score = score
-            best_cat = cat_name
-
-    return best_cat
-
-
-def quality_score(repo):
-    stars = repo.get("stargazers_count", 0)
-    forks = repo.get("forks_count", 0)
-    watchers = repo.get("watchers_count", 0)
-    open_issues = repo.get("open_issues_count", 0)
-
-    pushed = repo.get("pushed_at", "")
-    recency_bonus = 0
-
-    if pushed:
-        try:
-            pushed_date = datetime.strptime(pushed[:10], "%Y-%m-%d")
-            days_ago = (datetime.utcnow() - pushed_date).days
-            recency_bonus = max(0, 1000 - days_ago * 2)
-        except:
-            pass
-
-    return round(
-        math.log1p(stars) * 150 +
-        math.log1p(forks) * 50 +
-        math.log1p(watchers) * 10 -
-        min(open_issues / max(stars, 1) * 200, 150) +
-        recency_bonus,
-        2
-    )
-
-
 def trending_score(repo):
+    """Simple trending: stars per day since creation."""
     stars = repo.get("stargazers_count", 0)
     created = repo.get("created_at", "")
 
@@ -139,21 +76,37 @@ def trending_score(repo):
         return 0
 
 
-def is_genuinely_awesome(repo):
-    if repo.get("fork"):
-        return False
+# ---------------------------------------------------------------------------
+# HELPERS
+# ---------------------------------------------------------------------------
 
-    name = repo.get("name", "").lower()
+def get_category(repo):
+    name = repo.get("full_name", "").lower()
     desc = (repo.get("description") or "").lower()
     topics = [t.lower() for t in repo.get("topics", [])]
+    content = f"{name} {desc} {' '.join(topics)}"
 
-    if "awesome" not in name and "awesome" not in desc and "awesome" not in topics:
+    best_cat = "📦 Miscellaneous"
+    best_score = 0
+
+    for cat_name, keywords, _ in CATEGORIES:
+        score = sum(1 for kw in keywords if kw in content)
+        if score > best_score:
+            best_score = score
+            best_cat = cat_name
+
+    return best_cat
+
+
+def is_genuinely_awesome(repo):
+    if repo.get("fork"):
         return False
 
     if repo.get("stargazers_count", 0) < MIN_STARS:
         return False
 
-    return True
+    text = (repo.get("name", "") + " " + (repo.get("description") or "")).lower()
+    return "awesome" in text
 
 
 # ---------------------------------------------------------------------------
@@ -165,43 +118,38 @@ def fetch_all_repos():
     if TOKEN:
         headers["Authorization"] = f"token {TOKEN}"
 
-    all_repos = {}
+    repos = {}
     active_since = (datetime.utcnow() - timedelta(days=DAYS_ACTIVE)).strftime('%Y-%m-%d')
 
     for tier in STAR_TIERS:
         page = 1
-
         while page <= 10:
-            query = f'awesome in:name,description,topics stars:{tier} pushed:>{active_since}'
-            url = f"{BASE_URL}?q={query}&sort=stars&order=desc&per_page={PER_PAGE}&page={page}"
+            query = f'awesome in:name,description stars:{tier} pushed:>{active_since}'
+            url = f"{BASE_URL}?q={query}&per_page={PER_PAGE}&page={page}"
 
             resp = requests.get(url, headers=headers)
             if resp.status_code != 200:
                 break
 
-            data = resp.json()
-            items = data.get("items", [])
-
+            items = resp.json().get("items", [])
             if not items:
                 break
 
             for repo in items:
                 if is_genuinely_awesome(repo):
-                    all_repos[repo["full_name"]] = repo
+                    repos[repo["full_name"]] = repo
 
             page += 1
             time.sleep(1)
 
-    return list(all_repos.values())
+    return list(repos.values())
 
 
 # ---------------------------------------------------------------------------
-# README GENERATION (FIXED)
+# README
 # ---------------------------------------------------------------------------
 
 def generate_readme(repos):
-    repos.sort(key=lambda x: quality_score(x), reverse=True)
-
     categorized = {cat[0]: [] for cat in CATEGORIES}
     categorized["📦 Miscellaneous"] = []
 
@@ -212,8 +160,40 @@ def generate_readme(repos):
 
     with open("README.md", "w", encoding="utf-8") as f:
 
+        # HEADER
         f.write("# 🚀 Awesome Index\n\n")
-        f.write(f"**Last Updated:** `{now}`\n\n")
+        f.write(
+            f"**Last Updated:** `{now}`  \n"
+            f"**Total Repositories:** `{len(repos)}`  \n"
+            f"**Active Categories:** `{sum(1 for v in categorized.values() if v)}`  \n"
+            "**Criteria:** `500+ ⭐ · Actively maintained · Curated list`\n\n"
+        )
+
+        # WHAT IS THIS
+        f.write("## 🔍 What is this?\n\n")
+        f.write(
+            f"A single searchable index of `{len(repos):,}` curated awesome lists across GitHub, "
+            "auto-updated every Sunday. Covers AI, LLMs, Security, DevTools, Mobile, "
+            "Cloud, Databases, and more.\n\n"
+        )
+
+        # 🔥 TRENDING
+        f.write("## 🔥 Trending Now\n\n")
+        f.write("| Repository | ⭐ Stars | 🍴 Forks | Description |\n")
+        f.write("| :--- | ---: | ---: | :--- |\n")
+
+        trending = sorted(repos, key=trending_score, reverse=True)[:15]
+
+        for r in trending:
+            desc = (r.get("description") or "").replace("|", " ")[:100]
+            f.write(
+                f"| [{r['full_name']}]({r['html_url']}) "
+                f"| ⭐ `{r['stargazers_count']}` "
+                f"| 🍴 `{r['forks_count']}` "
+                f"| {desc} |\n"
+            )
+
+        f.write("\n---\n\n")
 
         # NAV
         f.write("## 📂 Categories\n\n")
@@ -230,24 +210,16 @@ def generate_readme(repos):
 
             anchor = make_anchor(cat)
 
-            # 🔥 FIX HERE
             f.write(f'<a name="{anchor}"></a>\n')
             f.write(f"## {cat}\n\n")
 
-            f.write("| Repository | ⭐ Stars | 🍴 Forks | Description |\n")
-            f.write("| :--- | ---: | ---: | :--- |\n")
-
             for r in items[:TOP_N]:
-                f.write(
-                    f"| [{r['full_name']}]({r['html_url']}) "
-                    f"| ⭐ `{r['stargazers_count']}` "
-                    f"| 🍴 `{r['forks_count']}` "
-                    f"| {(r.get('description') or '')[:100]} |\n"
-                )
+                desc = (r.get("description") or "").replace("|", " ")[:100]
+                f.write(f"- [{r['full_name']}]({r['html_url']}) — ⭐ {r['stargazers_count']}\n")
 
             f.write("\n")
 
-    print("✅ README fixed and generated.")
+    print("✅ README generated")
 
 
 # ---------------------------------------------------------------------------
