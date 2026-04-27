@@ -339,8 +339,11 @@ def generate_readme(repos):
             f"**Active Categories:** `{stats_cats}`  \n"
             "**Criteria:** `500+ ⭐ · Actively maintained · Curated list`\n\n"
         )
-        f.write("> 💡 Press `Ctrl + F` to search instantly. "
-                "Sorted by a composite quality score (stars, forks, recency, topics).\n\n")
+        f.write("## 🔍 What is this?\n\n")
+        f.write(f"A single searchable index of `{stats_total:,}` curated awesome lists across GitHub, "
+                "auto-updated every Sunday. Covers AI, LLMs, Security, DevTools, Mobile, "
+                "Cloud, Databases, and more.\n\n"
+               )
 
         # ── TRENDING ─────────────────────────────────────────────────────────
         f.write("## 🔥 Trending Now\n\n")
