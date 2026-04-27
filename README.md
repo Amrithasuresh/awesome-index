@@ -1,11 +1,13 @@
 # 🚀 Awesome Index
 
-**Last Updated:** `2026-04-27 00:47 UTC`  
+**Last Updated:** `2026-04-27 01:02 UTC`  
 **Total Repositories:** `1679`  
 **Active Categories:** `16`  
 **Criteria:** `500+ ⭐ · Actively maintained · Curated list`
 
-> 💡 Press `Ctrl + F` to search instantly. Sorted by a composite quality score (stars, forks, recency, topics).
+## 🔍 What is this?
+
+A single searchable index of `1,679` curated awesome lists across GitHub, auto-updated every Sunday. Covers AI, LLMs, Security, DevTools, Mobile, Cloud, Databases, and more.
 
 ## 🔥 Trending Now
 
@@ -13,21 +15,21 @@
 
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | ⭐ `66,015` | 🍴 `8,143` | A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agen |
-| [EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) | ⭐ `5,188` | 🍴 `476` | Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, a |
-| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | ⭐ `47,300` | 🍴 `4,644` | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Regi |
-| [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | ⭐ `35,244` | 🍴 `5,798` | Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and mor |
-| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | ⭐ `601` | 🍴 `137` | Prompt as Code ｜ GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板 |
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ⭐ `56,490` | 🍴 `6,082` | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
-| [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | ⭐ `2,884` | 🍴 `291` | 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. O |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | ⭐ `66,017` | 🍴 `8,142` | A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agen |
+| [EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) | ⭐ `5,208` | 🍴 `479` | Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, a |
+| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | ⭐ `47,302` | 🍴 `4,644` | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Regi |
+| [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | ⭐ `35,246` | 🍴 `5,799` | Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and mor |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | ⭐ `610` | 🍴 `137` | Prompt as Code ｜ GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板 |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ⭐ `56,496` | 🍴 `6,083` | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | ⭐ `2,890` | 🍴 `291` | 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. O |
 | [xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills) | ⭐ `4,047` | 🍴 `453` | Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ⭐ `85,703` | 🍴 `9,537` | A collection of MCP servers. |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ⭐ `85,703` | 🍴 `9,538` | A collection of MCP servers. |
 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | ⭐ `30,278` | 🍴 `2,599` | A community collection of OpenClaw use cases for making life easier. |
 | [VoltAgent/awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design) | ⭐ `1,670` | 🍴 `190` | Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI i |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | ⭐ `160,782` | 🍴 `21,024` | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | ⭐ `107,655` | 🍴 `15,846` | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
-| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ⭐ `41,291` | 🍴 `3,466` | A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code  |
-| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | ⭐ `18,964` | 🍴 `2,023` | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | ⭐ `160,783` | 🍴 `21,024` | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | ⭐ `107,658` | 🍴 `15,846` | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ⭐ `41,294` | 🍴 `3,466` | A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code  |
+| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | ⭐ `18,966` | 🍴 `2,024` | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex |
 
 ---
 
@@ -58,18 +60,18 @@
 
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | ⭐ `160,782` | 🍴 `21,024` | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | ⭐ `107,655` | 🍴 `15,846` | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
-| [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | ⭐ `35,244` | 🍴 `5,798` | Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and mor |
-| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | ⭐ `47,300` | 🍴 `4,644` | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Regi |
-| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ⭐ `41,291` | 🍴 `3,466` | A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code  |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | ⭐ `160,783` | 🍴 `21,024` | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | ⭐ `107,658` | 🍴 `15,846` | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | ⭐ `35,246` | 🍴 `5,799` | Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and mor |
+| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | ⭐ `47,302` | 🍴 `4,644` | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Regi |
+| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ⭐ `41,294` | 🍴 `3,466` | A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code  |
 | [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) | ⭐ `21,631` | 🍴 `5,900` | 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, |
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ⭐ `56,490` | 🍴 `6,082` | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
-| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | ⭐ `18,964` | 🍴 `2,023` | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex |
-| [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | ⭐ `18,468` | 🍴 `2,120` | A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ⭐ `56,496` | 🍴 `6,083` | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | ⭐ `18,966` | 🍴 `2,024` | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex |
+| [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | ⭐ `18,471` | 🍴 `2,120` | A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases |
 | [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) | ⭐ `13,908` | 🍴 `1,818` | Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into stru |
 | [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) | ⭐ `11,909` | 🍴 `1,552` | A curated list of modern Generative Artificial Intelligence projects and services |
-| [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | ⭐ `11,606` | 🍴 `1,250` | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
+| [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | ⭐ `11,607` | 🍴 `1,250` | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
 | [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | ⭐ `10,267` | 🍴 `1,378` | A collection of projects showcasing RAG, agents, workflows, and other AI use cases |
 | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | ⭐ `10,170` | 🍴 `1,089` | The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, spe |
 | [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) | ⭐ `9,308` | 🍴 `824` | 😎 Awesome list of tools and projects with the awesome LangChain framework |
@@ -78,7 +80,7 @@
 | [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | ⭐ `22,540` | 🍴 `2,127` | 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 |
 | [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) | ⭐ `8,175` | 🍴 `832` | 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） ｜ Summary of the world's best LLM resourc |
 | [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) | ⭐ `9,268` | 🍴 `1,807` | Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works! |
-| [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) | ⭐ `9,374` | 🍴 `1,386` | List of free GPTs that doesn't require plus subscription  |
+| [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) | ⭐ `9,375` | 🍴 `1,386` | List of free GPTs that doesn't require plus subscription  |
 | [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | ⭐ `7,715` | 🍴 `706` | Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr |
 | [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) | ⭐ `22,403` | 🍴 `2,308` | A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image  |
 | [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) | ⭐ `12,940` | 🍴 `3,049` | Easy-to-use and powerful LLM and SLM library with awesome model zoo. |
@@ -91,18 +93,18 @@
 
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | ⭐ `160,782` | 🍴 `21,024` | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | ⭐ `107,655` | 🍴 `15,846` | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
-| [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | ⭐ `35,244` | 🍴 `5,798` | Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and mor |
-| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | ⭐ `47,300` | 🍴 `4,644` | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Regi |
-| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ⭐ `41,291` | 🍴 `3,466` | A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code  |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | ⭐ `160,783` | 🍴 `21,024` | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | ⭐ `107,658` | 🍴 `15,846` | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | ⭐ `35,246` | 🍴 `5,799` | Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and mor |
+| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | ⭐ `47,302` | 🍴 `4,644` | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Regi |
+| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ⭐ `41,294` | 🍴 `3,466` | A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code  |
 | [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) | ⭐ `21,631` | 🍴 `5,900` | 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, |
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ⭐ `56,490` | 🍴 `6,082` | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
-| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | ⭐ `18,964` | 🍴 `2,023` | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex |
-| [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | ⭐ `18,468` | 🍴 `2,120` | A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ⭐ `56,496` | 🍴 `6,083` | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | ⭐ `18,966` | 🍴 `2,024` | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex |
+| [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | ⭐ `18,471` | 🍴 `2,120` | A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases |
 | [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) | ⭐ `13,908` | 🍴 `1,818` | Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into stru |
 | [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) | ⭐ `11,909` | 🍴 `1,552` | A curated list of modern Generative Artificial Intelligence projects and services |
-| [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | ⭐ `11,606` | 🍴 `1,250` | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
+| [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | ⭐ `11,607` | 🍴 `1,250` | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
 | [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | ⭐ `10,267` | 🍴 `1,378` | A collection of projects showcasing RAG, agents, workflows, and other AI use cases |
 | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | ⭐ `10,170` | 🍴 `1,089` | The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, spe |
 | [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) | ⭐ `9,308` | 🍴 `824` | 😎 Awesome list of tools and projects with the awesome LangChain framework |
@@ -111,31 +113,31 @@
 | [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | ⭐ `22,540` | 🍴 `2,127` | 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 |
 | [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) | ⭐ `8,175` | 🍴 `832` | 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） ｜ Summary of the world's best LLM resourc |
 | [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) | ⭐ `9,268` | 🍴 `1,807` | Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works! |
-| [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) | ⭐ `9,374` | 🍴 `1,386` | List of free GPTs that doesn't require plus subscription  |
+| [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) | ⭐ `9,375` | 🍴 `1,386` | List of free GPTs that doesn't require plus subscription  |
 | [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | ⭐ `7,715` | 🍴 `706` | Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr |
 | [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) | ⭐ `22,403` | 🍴 `2,308` | A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image  |
 | [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) | ⭐ `12,940` | 🍴 `3,049` | Easy-to-use and powerful LLM and SLM library with awesome model zoo. |
 | [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | ⭐ `5,826` | 🍴 `655` | This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transfor |
 | [lonePatient/awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) | ⭐ `5,555` | 🍴 `509` | Awesome Pretrained Chinese NLP Models，高质量中文预训练模型&大模型&多模态模型&大语言模型集合 |
 | [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) | ⭐ `5,750` | 🍴 `709` | An awesome & curated list of best LLMOps tools for developers |
-| [EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) | ⭐ `5,188` | 🍴 `476` | Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, a |
+| [EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) | ⭐ `5,208` | 🍴 `479` | Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, a |
 | [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | ⭐ `6,938` | 🍴 `525` | MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients |
 | [xlite-dev/Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference) | ⭐ `5,179` | 🍴 `369` | 📚A curated list of Awesome LLM/VLM Inference Papers with Codes: Flash-Attention, Paged-Attention, WINT8/4, Parallelism,  |
 | [xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills) | ⭐ `4,047` | 🍴 `453` | Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives |
 | [AlexAnys/awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) | ⭐ `3,917` | 🍴 `425` | 🇨🇳 OpenClaw中文用例大全 ｜ 49个真实场景 ｜ 国内特色 + 海外案例的国内适配 ｜ 自动化办公·内容创作·运维·AI助理·知识管理 ｜ 新手友好 ｜ Chinese guide for OpenClaw AI agent us |
 | [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | ⭐ `3,114` | 🍴 `496` | 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours! |
-| [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) | ⭐ `3,855` | 🍴 `366` | List of Permanent Free LLM API  (API Keys) |
+| [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) | ⭐ `3,856` | 🍴 `366` | List of Permanent Free LLM API  (API Keys) |
 | [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) | ⭐ `4,330` | 🍴 `411` | Tutorials, Guides and Agent Skills Directories |
 | [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) | ⭐ `2,978` | 🍴 `376` | A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex |
-| [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) | ⭐ `4,267` | 🍴 `493` | A collection of 130+ specialized Codex subagents covering a wide range of development use cases. |
-| [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | ⭐ `11,810` | 🍴 `1,241` | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude  |
+| [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) | ⭐ `4,268` | 🍴 `493` | A collection of 130+ specialized Codex subagents covering a wide range of development use cases. |
+| [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | ⭐ `11,813` | 🍴 `1,241` | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude  |
 | [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) | ⭐ `2,999` | 🍴 `289` | Curated list of the best truly open-source AI projects, models, tools, and infrastructure. |
-| [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | ⭐ `2,884` | 🍴 `291` | 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. O |
-| [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) | ⭐ `1,441` | 🍴 `438` | The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via SkillKit), 42 commands, 17 |
+| [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | ⭐ `2,890` | 🍴 `291` | 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. O |
+| [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) | ⭐ `1,441` | 🍴 `439` | The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via SkillKit), 42 commands, 17 |
 | [agentuniverse-ai/agentUniverse](https://github.com/agentuniverse-ai/agentUniverse) | ⭐ `2,212` | 🍴 `379` | agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications.  |
 | [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) | ⭐ `6,214` | 🍴 `430` | 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI |
 | [atfortes/Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) | ⭐ `3,600` | 🍴 `203` | From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓 |
-| [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) | ⭐ `3,865` | 🍴 `476` | ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, |
+| [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) | ⭐ `3,866` | 🍴 `476` | ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, |
 | [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) | ⭐ `3,306` | 🍴 `143` | 📖  A curated list of Awesome Userscripts. |
 | [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) | ⭐ `5,857` | 🍴 `537` | Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests |
 | [DEEP-PolyU/Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) | ⭐ `2,319` | 🍴 `196` | Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retr |
@@ -166,7 +168,7 @@
 | [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) | ⭐ `6,343` | 🍴 `412` | Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API ke |
 | [showlab/Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) | ⭐ `5,612` | 🍴 `357` | A curated list of recent diffusion models for video generation, editing, and various other applications. |
 | [alvinreal/awesome-autoresearch](https://github.com/alvinreal/awesome-autoresearch) | ⭐ `1,648` | 🍴 `126` | A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's a |
-| [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) | ⭐ `8,753` | 🍴 `1,068` | A curated list of Claude Skills. |
+| [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) | ⭐ `8,754` | 🍴 `1,068` | A curated list of Claude Skills. |
 | [kyegomez/awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers) | ⭐ `1,438` | 🍴 `135` | A compilation of the best multi-agent papers |
 | [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) | ⭐ `1,796` | 🍴 `104` | A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated) |
 | [steel-dev/awesome-web-agents](https://github.com/steel-dev/awesome-web-agents) | ⭐ `1,408` | 🍴 `162` | 🔥 A list of tools, frameworks, and resources for building AI web agents |
@@ -177,16 +179,16 @@
 | [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) | ⭐ `2,276` | 🍴 `126` | 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI |
 | [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) | ⭐ `2,462` | 🍴 `321` | A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to r |
 | [webfuse-com/awesome-claude](https://github.com/webfuse-com/awesome-claude) | ⭐ `1,386` | 🍴 `242` | A curated list of awesome things related to Anthropic Claude |
-| [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) | ⭐ `4,952` | 🍴 `527` | This repo includes Claude prompt curation to use Claude better. |
+| [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) | ⭐ `4,954` | 🍴 `527` | This repo includes Claude prompt curation to use Claude better. |
 | [zjukg/KG-LLM-Papers](https://github.com/zjukg/KG-LLM-Papers) | ⭐ `2,175` | 🍴 `155` | [Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs) |
 | [awesome-gptX/awesome-gpt](https://github.com/awesome-gptX/awesome-gpt) | ⭐ `1,108` | 🍴 `108` | 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and  |
 | [wikieden/Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN) | ⭐ `1,335` | 🍴 `114` | ChatGPT调教指南｜咒语指南｜聊天提示词指南｜学习指南 |
-| [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) | ⭐ `4,194` | 🍴 `294` | Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit |
-| [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) | ⭐ `26,700` | 🍴 `2,468` | Awesome-LLM: a curated list of Large Language Model |
+| [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) | ⭐ `4,195` | 🍴 `294` | Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit |
+| [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) | ⭐ `26,699` | 🍴 `2,468` | Awesome-LLM: a curated list of Large Language Model |
 | [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) | ⭐ `21,021` | 🍴 `1,397` | 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.  |
 | [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) | ⭐ `1,564` | 🍴 `183` | A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering. |
 | [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) | ⭐ `3,313` | 🍴 `230` | [TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related |
-| [ComposioHQ/awesome-claude-plugins](https://github.com/ComposioHQ/awesome-claude-plugins) | ⭐ `1,525` | 🍴 `346` | A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through t |
+| [ComposioHQ/awesome-claude-plugins](https://github.com/ComposioHQ/awesome-claude-plugins) | ⭐ `1,527` | 🍴 `347` | A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through t |
 | [YuzeHao2023/Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers) | ⭐ `1,041` | 🍴 `137` | A curated list of Model Context Protocol (MCP) servers  |
 | [llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) | ⭐ `1,388` | 🍴 `45` | 日本語LLMまとめ - Overview of Japanese LLMs |
 | [ActiveVisionLab/Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) | ⭐ `2,187` | 🍴 `140` | Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources |
@@ -201,16 +203,16 @@
 
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
-| [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) | ⭐ `2,232` | 🍴 `514` | 🤖 Awesome list of AI Agents |
+| [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) | ⭐ `2,233` | 🍴 `514` | 🤖 Awesome list of AI Agents |
 | [lixinustc/Awesome-diffusion-model-for-image-processing](https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing) | ⭐ `939` | 🍴 `69` | one summary of diffusion-based image processing, including restoration, enhancement, coding, quality assessment |
 | [taishi-i/awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources) | ⭐ `948` | 🍴 `41` | A curated list of resources dedicated to Python libraries, LLMs, dictionaries, and corpora of NLP for Japanese |
 | [weitianxin/Awesome-Agentic-Reasoning](https://github.com/weitianxin/Awesome-Agentic-Reasoning) | ⭐ `1,207` | 🍴 `93` | A curated list of papers and resources based on the survey "Agentic Reasoning for Large Language Models" |
+| [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | ⭐ `1,983` | 🍴 `158` | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. |
 | [jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness) | ⭐ `818` | 🍴 `55` | Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models |
-| [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | ⭐ `1,975` | 🍴 `158` | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. |
 | [skillmatic-ai/awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) | ⭐ `548` | 🍴 `93` | The definitive resource for Agent Skills - modular capabilities revolutionizing AI agent architecture |
 | [WecoAI/awesome-autoresearch](https://github.com/WecoAI/awesome-autoresearch) | ⭐ `899` | 🍴 `66` | Curated list of AutoResearch use cases with optimization traces and open source implementations |
 | [ChenHsing/Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models) | ⭐ `2,295` | 🍴 `113` | [CSUR] A Survey on Video Diffusion Models |
-| [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image) | ⭐ `676` | 🍴 `48` | A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X. |
+| [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image) | ⭐ `679` | 🍴 `48` | A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X. |
 | [rohitg00/awesome-ai-apps](https://github.com/rohitg00/awesome-ai-apps) | ⭐ `758` | 🍴 `159` | A curated collection of awesome AI Agents and LLM Apps built with multiple tech stacks, showcasing real-world implementa |
 | [Jenqyang/Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) | ⭐ `1,089` | 🍴 `219` | A collection of autonomous agents 🤖️ powered by LLM. |
 | [alvinreal/awesome-openclaw](https://github.com/alvinreal/awesome-openclaw) | ⭐ `649` | 🍴 `61` | A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memor |
@@ -218,8 +220,8 @@
 | [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) | ⭐ `596` | 🍴 `46` | Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orch |
 | [henomis/lingoose](https://github.com/henomis/lingoose) | ⭐ `828` | 🍴 `75` | 🪿 LinGoose is a Go framework for building awesome AI/LLM applications. |
 | [milisp/codexia](https://github.com/milisp/codexia) | ⭐ `644` | 🍴 `62` | Agent Workstation for Codex CLI + Claude Code — with task scheduler, git worktree & remote control, skills management |
-| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | ⭐ `601` | 🍴 `137` | Prompt as Code ｜ GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板 |
-| [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) | ⭐ `1,162` | 🍴 `153` | A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works w |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | ⭐ `610` | 🍴 `137` | Prompt as Code ｜ GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板 |
+| [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) | ⭐ `1,162` | 🍴 `154` | A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works w |
 | [CHIANGEL/Awesome-LLM-for-RecSys](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) | ⭐ `1,533` | 🍴 `86` | Survey: A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics |
 | [lmmlzn/Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) | ⭐ `1,457` | 🍴 `149` | Summarize existing representative LLMs text datasets. |
 | [Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs) | ⭐ `1,405` | 🍴 `62` | This repository provides valuable reference for researchers in the field of multimodality, please start your exploratory |
@@ -257,7 +259,7 @@
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
 | [rdragos/awesome-mpc](https://github.com/rdragos/awesome-mpc) | ⭐ `1,972` | 🍴 `280` |  A curated list of multi party computation resources and links. |
-| [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | ⭐ `723` | 🍴 `238` | Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code |
+| [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | ⭐ `724` | 🍴 `238` | Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code |
 | [OpenDataBox/awesome-data-llm](https://github.com/OpenDataBox/awesome-data-llm) | ⭐ `769` | 🍴 `68` | Official Repository of "LLM × DATA" Survey Paper |
 | [mliu98/awesome-human-distillation](https://github.com/mliu98/awesome-human-distillation) | ⭐ `535` | 🍴 `51` | A curated catalog of human distillliation agent skills |
 | [strongcourage/awesome-directed-fuzzing](https://github.com/strongcourage/awesome-directed-fuzzing) | ⭐ `588` | 🍴 `46` | A curated list of awesome directed fuzzing research papers |
@@ -338,7 +340,7 @@
 | [ty4z2008/Qix](https://github.com/ty4z2008/Qix) | ⭐ `15,099` | 🍴 `4,604` | Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang |
 | [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) | ⭐ `20,459` | 🍴 `2,564` | A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning |
 | [keon/awesome-nlp](https://github.com/keon/awesome-nlp) | ⭐ `18,442` | 🍴 `2,783` | :book: A curated list of resources dedicated to Natural Language Processing (NLP) |
-| [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) | ⭐ `14,367` | 🍴 `2,582` | A curated list of awesome big data frameworks, ressources and other awesomeness. |
+| [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) | ⭐ `14,368` | 🍴 `2,582` | A curated list of awesome big data frameworks, ressources and other awesomeness. |
 | [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) | ⭐ `8,893` | 🍴 `960` | Effortless data labeling with AI support from Segment Anything and other awesome models. |
 | [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) | ⭐ `5,237` | 🍴 `989` | 中国的Quant相关资源索引 |
 | [Vedenin/useful-java-links](https://github.com/Vedenin/useful-java-links) | ⭐ `6,161` | 🍴 `1,202` | A list of useful Java frameworks, libraries, software and hello worlds examples |
@@ -371,7 +373,7 @@
 | [ty4z2008/Qix](https://github.com/ty4z2008/Qix) | ⭐ `15,099` | 🍴 `4,604` | Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang |
 | [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) | ⭐ `20,459` | 🍴 `2,564` | A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning |
 | [keon/awesome-nlp](https://github.com/keon/awesome-nlp) | ⭐ `18,442` | 🍴 `2,783` | :book: A curated list of resources dedicated to Natural Language Processing (NLP) |
-| [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) | ⭐ `14,367` | 🍴 `2,582` | A curated list of awesome big data frameworks, ressources and other awesomeness. |
+| [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) | ⭐ `14,368` | 🍴 `2,582` | A curated list of awesome big data frameworks, ressources and other awesomeness. |
 | [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) | ⭐ `8,893` | 🍴 `960` | Effortless data labeling with AI support from Segment Anything and other awesome models. |
 | [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) | ⭐ `5,237` | 🍴 `989` | 中国的Quant相关资源索引 |
 | [Vedenin/useful-java-links](https://github.com/Vedenin/useful-java-links) | ⭐ `6,161` | 🍴 `1,202` | A list of useful Java frameworks, libraries, software and hello worlds examples |
@@ -452,7 +454,7 @@
 | [opendilab/awesome-decision-transformer](https://github.com/opendilab/awesome-decision-transformer) | ⭐ `896` | 🍴 `38` | A curated list of Decision Transformer resources (continually updated) |
 | [MarkMoHR/Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) | ⭐ `1,151` | 🍴 `111` | :books: A collection of Deep Learning based Image Colorization and Video Colorization papers. |
 | [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) | ⭐ `1,831` | 🍴 `166` | A curated list of Knowledge Graph related learning materials, databases, tools and other resources |
-| [ai4co/awesome-fm4co](https://github.com/ai4co/awesome-fm4co) | ⭐ `521` | 🍴 `42` | Recent research papers about Foundation Models for Combinatorial Optimization |
+| [ai4co/awesome-fm4co](https://github.com/ai4co/awesome-fm4co) | ⭐ `522` | 🍴 `42` | Recent research papers about Foundation Models for Combinatorial Optimization |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | ⭐ `755` | 🍴 `184` | Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and  |
 | [robotlearning123/awesome-isaac-gym](https://github.com/robotlearning123/awesome-isaac-gym) | ⭐ `1,178` | 🍴 `77` | A curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources |
 | [opendilab/awesome-model-based-RL](https://github.com/opendilab/awesome-model-based-RL) | ⭐ `1,339` | 🍴 `77` | A curated list of awesome model based RL resources (continually updated) |
@@ -524,7 +526,7 @@
 
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
-| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | ⭐ `102,671` | 🍴 `7,664` |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different ca |
+| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | ⭐ `102,672` | 🍴 `7,664` |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different ca |
 | [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) | ⭐ `19,733` | 🍴 `3,355` | PEASS - Privilege Escalation Awesome Scripts SUITE (with colors) |
 | [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) | ⭐ `17,628` | 🍴 `596` | A collection of ZSH frameworks, plugins, themes and tutorials. |
 | [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) | ⭐ `8,468` | 🍴 `1,153` | A curated list of awesome embedded programming. |
@@ -557,7 +559,7 @@
 
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
-| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | ⭐ `102,671` | 🍴 `7,664` |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different ca |
+| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | ⭐ `102,672` | 🍴 `7,664` |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different ca |
 | [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) | ⭐ `19,733` | 🍴 `3,355` | PEASS - Privilege Escalation Awesome Scripts SUITE (with colors) |
 | [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) | ⭐ `17,628` | 🍴 `596` | A collection of ZSH frameworks, plugins, themes and tutorials. |
 | [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) | ⭐ `8,468` | 🍴 `1,153` | A curated list of awesome embedded programming. |
@@ -583,7 +585,7 @@
 | [caoccao/Javet](https://github.com/caoccao/Javet) | ⭐ `945` | 🍴 `98` | Javet is Java + V8 (JAVa + V + EighT). It is an awesome way of embedding Node.js and V8 in Java. |
 | [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) | ⭐ `1,708` | 🍴 `95` | [mirror] A list of software and resources for professional audio/video/live events production on Linux. |
 | [Malix-Labs/Awesome-Atomic](https://github.com/Malix-Labs/Awesome-Atomic) | ⭐ `1,202` | 🍴 `39` | An awesome curated knowledge-base about atomic systems |
-| [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) | ⭐ `4,207` | 🍴 `103` | A curated list of awesome tools and technology to help you out with ricing on linux |
+| [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) | ⭐ `4,208` | 🍴 `103` | A curated list of awesome tools and technology to help you out with ricing on linux |
 | [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) | ⭐ `1,404` | 🍴 `49` | QuickLook plugins and packages |
 | [jubalh/awesome-os](https://github.com/jubalh/awesome-os) | ⭐ `2,157` | 🍴 `201` | A list of operating systems and stuff |
 | [gmh5225/awesome-llvm-security](https://github.com/gmh5225/awesome-llvm-security) | ⭐ `825` | 🍴 `97` | awesome llvm security [Welcome to PR] |
@@ -625,14 +627,14 @@
 | [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | ⭐ `36,753` | 🍴 `7,951` | Learn System Design concepts and prepare for interviews using free resources. |
 | [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) | ⭐ `27,400` | 🍴 `5,215` | :page_facing_up: Awesome CV is LaTeX template for your outstanding job application |
 | [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | ⭐ `16,309` | 🍴 `3,478` | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
-| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | ⭐ `70,627` | 🍴 `6,970` | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems |
+| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | ⭐ `70,629` | 🍴 `6,970` | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems |
 | [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | ⭐ `23,599` | 🍴 `5,773` | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
 | [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) | ⭐ `34,806` | 🍴 `2,182` | A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups |
 | [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) | ⭐ `17,327` | 🍴 `1,594` | All the resources you need to get to Senior Engineer and beyond |
 | [JsonChao/Awesome-Android-Notebook](https://github.com/JsonChao/Awesome-Android-Notebook) | ⭐ `3,405` | 🍴 `1,253` | :computer: A complete plan for better android developers.（continuous updating ...） |
 | [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) | ⭐ `12,086` | 🍴 `1,303` | A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  |
 | [JsonChao/Awesome-Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview) | ⭐ `4,607` | 🍴 `952` | :fire: A awesome  android expert interview questions and answers（continuous updating ...） |
-| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | ⭐ `45,424` | 🍴 `4,588` | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python |
+| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | ⭐ `45,425` | 🍴 `4,588` | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python |
 | [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) | ⭐ `10,989` | 🍴 `956` | 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, |
 | [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) | ⭐ `10,435` | 🍴 `1,050` | 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows. |
 | [greatfrontend/awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design) | ⭐ `8,122` | 🍴 `301` | Curated front end system design resources for interviews and learning |
@@ -658,14 +660,14 @@
 | [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | ⭐ `36,753` | 🍴 `7,951` | Learn System Design concepts and prepare for interviews using free resources. |
 | [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) | ⭐ `27,400` | 🍴 `5,215` | :page_facing_up: Awesome CV is LaTeX template for your outstanding job application |
 | [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | ⭐ `16,309` | 🍴 `3,478` | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
-| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | ⭐ `70,627` | 🍴 `6,970` | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems |
+| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | ⭐ `70,629` | 🍴 `6,970` | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems |
 | [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | ⭐ `23,599` | 🍴 `5,773` | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
 | [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) | ⭐ `34,806` | 🍴 `2,182` | A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups |
 | [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) | ⭐ `17,327` | 🍴 `1,594` | All the resources you need to get to Senior Engineer and beyond |
 | [JsonChao/Awesome-Android-Notebook](https://github.com/JsonChao/Awesome-Android-Notebook) | ⭐ `3,405` | 🍴 `1,253` | :computer: A complete plan for better android developers.（continuous updating ...） |
 | [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) | ⭐ `12,086` | 🍴 `1,303` | A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  |
 | [JsonChao/Awesome-Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview) | ⭐ `4,607` | 🍴 `952` | :fire: A awesome  android expert interview questions and answers（continuous updating ...） |
-| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | ⭐ `45,424` | 🍴 `4,588` | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python |
+| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | ⭐ `45,425` | 🍴 `4,588` | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python |
 | [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) | ⭐ `10,989` | 🍴 `956` | 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, |
 | [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) | ⭐ `10,435` | 🍴 `1,050` | 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows. |
 | [greatfrontend/awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design) | ⭐ `8,122` | 🍴 `301` | Curated front end system design resources for interviews and learning |
@@ -703,7 +705,7 @@
 
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
-| [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | ⭐ `85,023` | 🍴 `7,849` | A list of awesome beginners-friendly projects. |
+| [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | ⭐ `85,024` | 🍴 `7,849` | A list of awesome beginners-friendly projects. |
 | [enaqx/awesome-react](https://github.com/enaqx/awesome-react) | ⭐ `73,045` | 🍴 `7,573` | A collection of awesome things regarding React ecosystem |
 | [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) | ⭐ `10,724` | 🍴 `1,311` | DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, re |
 | [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | ⭐ `31,045` | 🍴 `2,548` | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
@@ -719,14 +721,14 @@
 | [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) | ⭐ `5,770` | 🍴 `607` | A tiny list limited to the best JavaScript Learning Resources |
 | [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) | ⭐ `6,123` | 🍴 `401` | My learning notes for ML SYS. |
 | [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) | ⭐ `1,596` | 🍴 `466` | 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents. |
-| [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) | ⭐ `2,193` | 🍴 `240` | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for |
+| [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) | ⭐ `2,194` | 🍴 `240` | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for |
 | [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) | ⭐ `6,714` | 🍴 `384` | 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone. |
 | [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) | ⭐ `1,725` | 🍴 `248` | 超赞列表合集 |
 | [linsa-io/books](https://github.com/linsa-io/books) | ⭐ `7,340` | 🍴 `809` | Awesome Books |
 | [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) | ⭐ `2,637` | 🍴 `154` | Pointers and tools for learning and day-to-day practice of engineering management & leadership. |
 | [micromata/awesome-css-learning](https://github.com/micromata/awesome-css-learning) | ⭐ `3,803` | 🍴 `264` | A tiny list limited to the best CSS Learning Resources |
 | [mkdocs/catalog](https://github.com/mkdocs/catalog) | ⭐ `1,733` | 🍴 `121` | :trophy: :books: A list of awesome MkDocs projects and plugins.  |
-| [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) | ⭐ `1,640` | 🍴 `87` | 📜Zig Learning Guide & Project Lists |
+| [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) | ⭐ `1,641` | 🍴 `87` | 📜Zig Learning Guide & Project Lists |
 | [heathersherry/Knowledge-Graph-Tutorials-and-Papers](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers) | ⭐ `1,038` | 🍴 `133` | Insightful Tutorials and Papers about Knowledge Graphs |
 
 <details>
@@ -736,7 +738,7 @@
 
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
-| [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | ⭐ `85,023` | 🍴 `7,849` | A list of awesome beginners-friendly projects. |
+| [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | ⭐ `85,024` | 🍴 `7,849` | A list of awesome beginners-friendly projects. |
 | [enaqx/awesome-react](https://github.com/enaqx/awesome-react) | ⭐ `73,045` | 🍴 `7,573` | A collection of awesome things regarding React ecosystem |
 | [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) | ⭐ `10,724` | 🍴 `1,311` | DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, re |
 | [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | ⭐ `31,045` | 🍴 `2,548` | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
@@ -752,14 +754,14 @@
 | [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) | ⭐ `5,770` | 🍴 `607` | A tiny list limited to the best JavaScript Learning Resources |
 | [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) | ⭐ `6,123` | 🍴 `401` | My learning notes for ML SYS. |
 | [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) | ⭐ `1,596` | 🍴 `466` | 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents. |
-| [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) | ⭐ `2,193` | 🍴 `240` | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for |
+| [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) | ⭐ `2,194` | 🍴 `240` | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for |
 | [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) | ⭐ `6,714` | 🍴 `384` | 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone. |
 | [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) | ⭐ `1,725` | 🍴 `248` | 超赞列表合集 |
 | [linsa-io/books](https://github.com/linsa-io/books) | ⭐ `7,340` | 🍴 `809` | Awesome Books |
 | [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) | ⭐ `2,637` | 🍴 `154` | Pointers and tools for learning and day-to-day practice of engineering management & leadership. |
 | [micromata/awesome-css-learning](https://github.com/micromata/awesome-css-learning) | ⭐ `3,803` | 🍴 `264` | A tiny list limited to the best CSS Learning Resources |
 | [mkdocs/catalog](https://github.com/mkdocs/catalog) | ⭐ `1,733` | 🍴 `121` | :trophy: :books: A list of awesome MkDocs projects and plugins.  |
-| [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) | ⭐ `1,640` | 🍴 `87` | 📜Zig Learning Guide & Project Lists |
+| [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) | ⭐ `1,641` | 🍴 `87` | 📜Zig Learning Guide & Project Lists |
 | [heathersherry/Knowledge-Graph-Tutorials-and-Papers](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers) | ⭐ `1,038` | 🍴 `133` | Insightful Tutorials and Papers about Knowledge Graphs |
 | [EvoLinkAI/awesome-openclaw-usecases-moltbook](https://github.com/EvoLinkAI/awesome-openclaw-usecases-moltbook) | ⭐ `963` | 🍴 `106` | 📚 Real-world OpenClaw automation examples from Moltbook |
 | [mathworks-robotics/awesome-matlab-robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics) | ⭐ `899` | 🍴 `151` | This is a list of awesome demos, tutorials, utilities and overall resources for the robotics community that use MATLAB a |
@@ -797,7 +799,7 @@
 | [modenaxe/awesome-biomechanics](https://github.com/modenaxe/awesome-biomechanics) | ⭐ `969` | 🍴 `149` | A curated, public list of resources for biomechanics and human motion analysis: datasets, processing tools,  software fo |
 | [XiudingCai/Awesome-Mamba-Collection](https://github.com/XiudingCai/Awesome-Mamba-Collection) | ⭐ `724` | 🍴 `64` | A curated collection of papers, tutorials, videos, and other valuable resources related to Mamba. |
 | [vpavlenko/study-music](https://github.com/vpavlenko/study-music) | ⭐ `2,183` | 🍴 `81` | An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound |
-| [HuaizhengZhang/AI-Infra-from-Zero-to-Hero](https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero) | ⭐ `3,926` | 🍴 `379` | 🚀 Awesome System for Machine Learning ⚡️ AI System Papers and Industry Practice. ⚡️ System for Machine Learning, LLM (La |
+| [HuaizhengZhang/AI-Infra-from-Zero-to-Hero](https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero) | ⭐ `3,927` | 🍴 `379` | 🚀 Awesome System for Machine Learning ⚡️ AI System Papers and Industry Practice. ⚡️ System for Machine Learning, LLM (La |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | ⭐ `5,493` | 🍴 `588` | A curated list of awesome things related to Nuxt.js |
 | [moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) | ⭐ `521` | 🍴 `89` | 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers. |
 | [niessner/Matterport](https://github.com/niessner/Matterport) | ⭐ `1,201` | 🍴 `156` | Matterport3D is a pretty awesome dataset for RGB-D machine learning tasks :) |
@@ -924,7 +926,7 @@
 | [joewdavies/awesome-frontend-gis](https://github.com/joewdavies/awesome-frontend-gis) | ⭐ `691` | 🍴 `44` | Geospatial resources for web development :earth_africa: 🗺️ |
 | [gbadev-org/awesome-gbadev](https://github.com/gbadev-org/awesome-gbadev) | ⭐ `1,296` | 🍴 `71` | A curated list of Game Boy Advance development resources |
 | [wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) | ⭐ `777` | 🍴 `65` | Wardley maps community hub. Useful Wardley mapping resources |
-| [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) | ⭐ `2,820` | 🍴 `139` | Awesome Logseq resources created by the community <3 |
+| [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) | ⭐ `2,821` | 🍴 `139` | Awesome Logseq resources created by the community <3 |
 | [Roobyx/awesome-game-design](https://github.com/Roobyx/awesome-game-design) | ⭐ `562` | 🍴 `35` | A comprehensive list of Game Design related learning materials, examples and tools. |
 | [RetroReversing/retroReversing](https://github.com/RetroReversing/retroReversing) | ⭐ `639` | 🍴 `267` | Awesome website for reverse engineering retro games: |
 | [CommunityDragon/awesome-league](https://github.com/CommunityDragon/awesome-league) | ⭐ `629` | 🍴 `43` | A list of apps that work with the League of Legends Client & In-Game API. |
@@ -975,9 +977,9 @@
 
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ⭐ `288,363` | 🍴 `13,276` | A list of Free Software network services and web applications which can be hosted on your own servers |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ⭐ `288,365` | 🍴 `13,276` | A list of Free Software network services and web applications which can be hosted on your own servers |
 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ⭐ `111,078` | 🍴 `10,221` | A collection of various awesome lists for hackers, pentesters and security researchers |
-| [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) | ⭐ `26,007` | 🍴 `3,574` | :scream: A curated list of amazingly awesome OSINT |
+| [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) | ⭐ `26,008` | 🍴 `3,574` | :scream: A curated list of amazingly awesome OSINT |
 | [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) | ⭐ `9,365` | 🍴 `1,548` | A collection of android security related resources |
 | [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) | ⭐ `21,273` | 🍴 `1,437` | 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026 |
 | [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) | ⭐ `10,527` | 🍴 `1,006` | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team ope |
@@ -1008,9 +1010,9 @@
 
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ⭐ `288,363` | 🍴 `13,276` | A list of Free Software network services and web applications which can be hosted on your own servers |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ⭐ `288,365` | 🍴 `13,276` | A list of Free Software network services and web applications which can be hosted on your own servers |
 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ⭐ `111,078` | 🍴 `10,221` | A collection of various awesome lists for hackers, pentesters and security researchers |
-| [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) | ⭐ `26,007` | 🍴 `3,574` | :scream: A curated list of amazingly awesome OSINT |
+| [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) | ⭐ `26,008` | 🍴 `3,574` | :scream: A curated list of amazingly awesome OSINT |
 | [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) | ⭐ `9,365` | 🍴 `1,548` | A collection of android security related resources |
 | [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) | ⭐ `21,273` | 🍴 `1,437` | 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026 |
 | [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) | ⭐ `10,527` | 🍴 `1,006` | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team ope |
@@ -1156,14 +1158,14 @@
 
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | ⭐ `459,294` | 🍴 `34,494` | 😎 Awesome lists about all kinds of interesting topics |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ⭐ `85,703` | 🍴 `9,537` | A collection of MCP servers. |
-| [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | ⭐ `23,623` | 🍴 `6,831` | ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 ｜ IPTV live streaming source au |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | ⭐ `459,296` | 🍴 `34,494` | 😎 Awesome lists about all kinds of interesting topics |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ⭐ `85,703` | 🍴 `9,538` | A collection of MCP servers. |
+| [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | ⭐ `23,622` | 🍴 `6,831` | ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 ｜ IPTV live streaming source au |
 | [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | ⭐ `36,612` | 🍴 `4,049` | Integrate the DeepSeek API into popular software |
 | [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) | ⭐ `11,082` | 🍴 `1,458` | A curated list of awesome things related to Django |
 | [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) | ⭐ `14,188` | 🍴 `1,460` | A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API. |
 | [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) | ⭐ `8,062` | 🍴 `1,417` | Awesome Web Development Resources. |
-| [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | ⭐ `8,793` | 🍴 `868` | A collaborative list of public APIs for developers |
+| [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | ⭐ `8,792` | 🍴 `868` | A collaborative list of public APIs for developers |
 | [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) | ⭐ `11,304` | 🍴 `848` | A curated list of awesome things related to FastAPI |
 | [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) | ⭐ `7,858` | 🍴 `887` | List of libraries, tools and APIs for web scraping and data processing. |
 | [ChilliCream/graphql-platform](https://github.com/ChilliCream/graphql-platform) | ⭐ `5,688` | 🍴 `802` | Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Nitro |
@@ -1189,14 +1191,14 @@
 
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | ⭐ `459,294` | 🍴 `34,494` | 😎 Awesome lists about all kinds of interesting topics |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ⭐ `85,703` | 🍴 `9,537` | A collection of MCP servers. |
-| [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | ⭐ `23,623` | 🍴 `6,831` | ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 ｜ IPTV live streaming source au |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | ⭐ `459,296` | 🍴 `34,494` | 😎 Awesome lists about all kinds of interesting topics |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ⭐ `85,703` | 🍴 `9,538` | A collection of MCP servers. |
+| [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | ⭐ `23,622` | 🍴 `6,831` | ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 ｜ IPTV live streaming source au |
 | [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | ⭐ `36,612` | 🍴 `4,049` | Integrate the DeepSeek API into popular software |
 | [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) | ⭐ `11,082` | 🍴 `1,458` | A curated list of awesome things related to Django |
 | [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) | ⭐ `14,188` | 🍴 `1,460` | A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API. |
 | [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) | ⭐ `8,062` | 🍴 `1,417` | Awesome Web Development Resources. |
-| [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | ⭐ `8,793` | 🍴 `868` | A collaborative list of public APIs for developers |
+| [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | ⭐ `8,792` | 🍴 `868` | A collaborative list of public APIs for developers |
 | [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) | ⭐ `11,304` | 🍴 `848` | A curated list of awesome things related to FastAPI |
 | [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) | ⭐ `7,858` | 🍴 `887` | List of libraries, tools and APIs for web scraping and data processing. |
 | [ChilliCream/graphql-platform](https://github.com/ChilliCream/graphql-platform) | ⭐ `5,688` | 🍴 `802` | Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Nitro |
@@ -1248,7 +1250,7 @@
 | [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) | ⭐ `5,093` | 🍴 `481` | A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript  |
 | [shoelace-style/webawesome](https://github.com/shoelace-style/webawesome) | ⭐ `1,009` | 🍴 `139` | Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade to Pro and ship webs |
 | [cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization) | ⭐ `1,067` | 🍴 `135` | A list of interesting genome browser and genome visualization programs |
-| [cirosantilli/china-dictatorship](https://github.com/cirosantilli/china-dictatorship) | ⭐ `2,957` | 🍴 `287` | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功  |
+| [cirosantilli/china-dictatorship](https://github.com/cirosantilli/china-dictatorship) | ⭐ `2,957` | 🍴 `288` | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功  |
 | [atakanaltok/awesome-useful-websites](https://github.com/atakanaltok/awesome-useful-websites) | ⭐ `1,032` | 🍴 `126` | Hand-curated list of awesome and useful websites |
 | [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) | ⭐ `1,458` | 🍴 `152` |  💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework |
 | [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) | ⭐ `4,422` | 🍴 `208` | 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly |
@@ -1335,9 +1337,9 @@
 
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
-| [docker/awesome-compose](https://github.com/docker/awesome-compose) | ⭐ `45,008` | 🍴 `8,118` | Awesome Docker Compose samples |
+| [docker/awesome-compose](https://github.com/docker/awesome-compose) | ⭐ `45,007` | 🍴 `8,118` | Awesome Docker Compose samples |
 | [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | ⭐ `45,707` | 🍴 `6,684` | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything  |
-| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | ⭐ `153,266` | 🍴 `11,696` | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
+| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | ⭐ `153,270` | 🍴 `11,696` | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
 | [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | ⭐ `62,718` | 🍴 `3,902` | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph colle |
 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | ⭐ `31,276` | 🍴 `3,776` | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
 | [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) | ⭐ `35,879` | 🍴 `3,288` | :whale: A curated list of Docker resources and projects |
@@ -1345,15 +1347,15 @@
 | [Lissy93/dashy](https://github.com/Lissy93/dashy) | ⭐ `24,829` | 🍴 `1,818` | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor a |
 | [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | ⭐ `29,791` | 🍴 `4,348` | 😎 A curated list of awesome GitHub Profile which updates in real time  |
 | [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) | ⭐ `15,905` | 🍴 `2,414` | A curated list for awesome kubernetes sources :ship::tada: |
-| [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | ⭐ `20,732` | 🍴 `980` | Collections of awesome neovim plugins. |
+| [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | ⭐ `20,733` | 🍴 `980` | Collections of awesome neovim plugins. |
 | [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) | ⭐ `5,225` | 🍴 `7,672` | This repository contains best profile readme's for your reference.  |
 | [powerline/powerline](https://github.com/powerline/powerline) | ⭐ `14,739` | 🍴 `1,003` | Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including |
 | [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) | ⭐ `6,425` | 🍴 `1,009` | Curated list of resources on HashiCorp's Terraform and OpenTofu |
 | [jnv/lists](https://github.com/jnv/lists) | ⭐ `11,152` | 🍴 `756` | The definitive list of lists (of lists) curated on GitHub and elsewhere |
 | [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) | ⭐ `16,748` | 🍴 `1,827` | 收集整理 GitHub 上高质量、有趣的开源项目。 |
 | [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) | ⭐ `6,705` | 🍴 `1,171` | Ultimate DevSecOps library |
-| [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) | ⭐ `4,067` | 🍴 `835` | A curated list of awesome DevOps platforms, tools, practices and resources |
-| [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | ⭐ `19,415` | 🍴 `1,271` | 🖥 📊 🕹 🛠 A curated list of command line apps |
+| [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) | ⭐ `4,066` | 🍴 `835` | A curated list of awesome DevOps platforms, tools, practices and resources |
+| [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | ⭐ `19,416` | 🍴 `1,271` | 🖥 📊 🕹 🛠 A curated list of command line apps |
 | [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | ⭐ `6,400` | 🍴 `550` | A collection of MCP clients. |
 | [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) | ⭐ `30,530` | 🍴 `1,434` | Use your macOS terminal shell to do awesome things. |
 | [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) | ⭐ `3,929` | 🍴 `632` | This GitHub action helps to add cool dev metrics to your github profile Readme |
@@ -1368,9 +1370,9 @@
 
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
-| [docker/awesome-compose](https://github.com/docker/awesome-compose) | ⭐ `45,008` | 🍴 `8,118` | Awesome Docker Compose samples |
+| [docker/awesome-compose](https://github.com/docker/awesome-compose) | ⭐ `45,007` | 🍴 `8,118` | Awesome Docker Compose samples |
 | [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | ⭐ `45,707` | 🍴 `6,684` | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything  |
-| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | ⭐ `153,266` | 🍴 `11,696` | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
+| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | ⭐ `153,270` | 🍴 `11,696` | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
 | [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | ⭐ `62,718` | 🍴 `3,902` | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph colle |
 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | ⭐ `31,276` | 🍴 `3,776` | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
 | [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) | ⭐ `35,879` | 🍴 `3,288` | :whale: A curated list of Docker resources and projects |
@@ -1378,15 +1380,15 @@
 | [Lissy93/dashy](https://github.com/Lissy93/dashy) | ⭐ `24,829` | 🍴 `1,818` | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor a |
 | [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | ⭐ `29,791` | 🍴 `4,348` | 😎 A curated list of awesome GitHub Profile which updates in real time  |
 | [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) | ⭐ `15,905` | 🍴 `2,414` | A curated list for awesome kubernetes sources :ship::tada: |
-| [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | ⭐ `20,732` | 🍴 `980` | Collections of awesome neovim plugins. |
+| [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | ⭐ `20,733` | 🍴 `980` | Collections of awesome neovim plugins. |
 | [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) | ⭐ `5,225` | 🍴 `7,672` | This repository contains best profile readme's for your reference.  |
 | [powerline/powerline](https://github.com/powerline/powerline) | ⭐ `14,739` | 🍴 `1,003` | Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including |
 | [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) | ⭐ `6,425` | 🍴 `1,009` | Curated list of resources on HashiCorp's Terraform and OpenTofu |
 | [jnv/lists](https://github.com/jnv/lists) | ⭐ `11,152` | 🍴 `756` | The definitive list of lists (of lists) curated on GitHub and elsewhere |
 | [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) | ⭐ `16,748` | 🍴 `1,827` | 收集整理 GitHub 上高质量、有趣的开源项目。 |
 | [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) | ⭐ `6,705` | 🍴 `1,171` | Ultimate DevSecOps library |
-| [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) | ⭐ `4,067` | 🍴 `835` | A curated list of awesome DevOps platforms, tools, practices and resources |
-| [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | ⭐ `19,415` | 🍴 `1,271` | 🖥 📊 🕹 🛠 A curated list of command line apps |
+| [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) | ⭐ `4,066` | 🍴 `835` | A curated list of awesome DevOps platforms, tools, practices and resources |
+| [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | ⭐ `19,416` | 🍴 `1,271` | 🖥 📊 🕹 🛠 A curated list of command line apps |
 | [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | ⭐ `6,400` | 🍴 `550` | A collection of MCP clients. |
 | [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) | ⭐ `30,530` | 🍴 `1,434` | Use your macOS terminal shell to do awesome things. |
 | [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) | ⭐ `3,929` | 🍴 `632` | This GitHub action helps to add cool dev metrics to your github profile Readme |
@@ -1504,7 +1506,7 @@
 | [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) | ⭐ `8,902` | 🍴 `967` | The Generative AI Landscape - A Collection of Awesome Generative AI Applications |
 | [ninjaprox/NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) | ⭐ `10,713` | 🍴 `1,155` | A collection of awesome loading animations |
 | [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) | ⭐ `6,117` | 🍴 `575` | Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup |
-| [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) | ⭐ `8,677` | 🍴 `227` | Curated list of awesome Android apps making use of Shizuku |
+| [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) | ⭐ `8,678` | 🍴 `227` | Curated list of awesome Android apps making use of Shizuku |
 | [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) | ⭐ `7,567` | 🍴 `555` | 🚀 Awesome Tauri Apps, Plugins and Resources |
 | [JsonChao/Awesome-WanAndroid](https://github.com/JsonChao/Awesome-WanAndroid) | ⭐ `2,725` | 🍴 `596` | :zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n |
 | [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) | ⭐ `5,127` | 🍴 `242` | Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS） |
@@ -1537,7 +1539,7 @@
 | [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) | ⭐ `8,902` | 🍴 `967` | The Generative AI Landscape - A Collection of Awesome Generative AI Applications |
 | [ninjaprox/NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) | ⭐ `10,713` | 🍴 `1,155` | A collection of awesome loading animations |
 | [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) | ⭐ `6,117` | 🍴 `575` | Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup |
-| [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) | ⭐ `8,677` | 🍴 `227` | Curated list of awesome Android apps making use of Shizuku |
+| [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) | ⭐ `8,678` | 🍴 `227` | Curated list of awesome Android apps making use of Shizuku |
 | [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) | ⭐ `7,567` | 🍴 `555` | 🚀 Awesome Tauri Apps, Plugins and Resources |
 | [JsonChao/Awesome-WanAndroid](https://github.com/JsonChao/Awesome-WanAndroid) | ⭐ `2,725` | 🍴 `596` | :zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n |
 | [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) | ⭐ `5,127` | 🍴 `242` | Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS） |
@@ -1550,7 +1552,7 @@
 | [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) | ⭐ `3,584` | 🍴 `185` | Curated list of the best free apps for PC and mobile |
 | [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) | ⭐ `12,078` | 🍴 `1,754` | A curated list of awesome Android packages and resources. |
 | [nank1ro/flutter-shadcn-ui](https://github.com/nank1ro/flutter-shadcn-ui) | ⭐ `2,643` | 🍴 `177` | shadcn-ui ported in Flutter. Awesome UI components for Flutter, fully customizable. |
-| [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) | ⭐ `3,067` | 🍴 `156` | Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides |
+| [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) | ⭐ `3,068` | 🍴 `156` | Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides |
 | [Apparence-io/CamerAwesome](https://github.com/Apparence-io/CamerAwesome) | ⭐ `1,190` | 🍴 `385` | 📸 Embedding a camera experience within your own app shouldn't be that hard. A flutter plugin to integrate awesome Androi |
 | [Wolg/awesome-swift](https://github.com/Wolg/awesome-swift) | ⭐ `5,840` | 🍴 `529` | A curated list of awesome Swift frameworks, libraries and software. |
 | [BandarHL/BHTwitter](https://github.com/BandarHL/BHTwitter) | ⭐ `2,575` | 🍴 `817` | Awesome tweak for Twitter |
@@ -1645,7 +1647,7 @@
 | [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) | ⭐ `8,990` | 🍴 `687` | List of "only yours" cloud services for everyday needs :black_flag: |
 | [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) | ⭐ `13,664` | 🍴 `1,205` | ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and  |
 | [lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture) | ⭐ `1,695` | 🍴 `351` | AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture |
-| [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) | ⭐ `13,164` | 🍴 `1,737` | A curated list of Site Reliability and Production Engineering resources. |
+| [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) | ⭐ `13,163` | 🍴 `1,737` | A curated list of Site Reliability and Production Engineering resources. |
 | [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) | ⭐ `4,946` | 🍴 `146` | A curation of prompts, plugins & other Fish treasures 🐚💎 |
 | [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) | ⭐ `1,451` | 🍴 `212` | A curated list of Site Reliability and Production Engineering Tools |
 | [ptcodes/awesome-aws-certifications](https://github.com/ptcodes/awesome-aws-certifications) | ⭐ `687` | 🍴 `185` | ☁️ A curated list of AWS certification materials: videos courses, practice exams, prep tips, etc. |
@@ -1678,7 +1680,7 @@
 | [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) | ⭐ `8,990` | 🍴 `687` | List of "only yours" cloud services for everyday needs :black_flag: |
 | [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) | ⭐ `13,664` | 🍴 `1,205` | ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and  |
 | [lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture) | ⭐ `1,695` | 🍴 `351` | AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture |
-| [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) | ⭐ `13,164` | 🍴 `1,737` | A curated list of Site Reliability and Production Engineering resources. |
+| [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) | ⭐ `13,163` | 🍴 `1,737` | A curated list of Site Reliability and Production Engineering resources. |
 | [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) | ⭐ `4,946` | 🍴 `146` | A curation of prompts, plugins & other Fish treasures 🐚💎 |
 | [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) | ⭐ `1,451` | 🍴 `212` | A curated list of Site Reliability and Production Engineering Tools |
 | [ptcodes/awesome-aws-certifications](https://github.com/ptcodes/awesome-aws-certifications) | ⭐ `687` | 🍴 `185` | ☁️ A curated list of AWS certification materials: videos courses, practice exams, prep tips, etc. |
@@ -1731,7 +1733,7 @@
 
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | ⭐ `66,015` | 🍴 `8,143` | A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agen |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | ⭐ `66,017` | 🍴 `8,142` | A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agen |
 | [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | ⭐ `76,529` | 🍴 `12,220` | The iconic SVG, font, and CSS toolkit |
 | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | ⭐ `26,379` | 🍴 `5,568` | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
 | [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) | ⭐ `19,410` | 🍴 `1,179` | A curated list of awesome things related to shadcn/ui. |
@@ -1741,7 +1743,7 @@
 | [humhub/humhub](https://github.com/humhub/humhub) | ⭐ `6,667` | 🍴 `1,675` | HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless free |
 | [plouc/nivo](https://github.com/plouc/nivo) | ⭐ `14,017` | 🍴 `1,071` | nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries |
 | [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) | ⭐ `13,870` | 🍴 `919` | Shoelace is now Web Awesome. Come see what’s new! |
-| [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) | ⭐ `10,748` | 🍴 `617` | A curated list of high quality coding style conventions and standards. |
+| [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) | ⭐ `10,747` | 🍴 `617` | A curated list of high quality coding style conventions and standards. |
 | [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | ⭐ `9,906` | 🍴 `648` | :octocat: Dark GitHub style |
 | [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) | ⭐ `8,907` | 🍴 `803` | The awesome document factory |
 | [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) | ⭐ `14,125` | 🍴 `806` | :city_sunrise: A collection of links for free stock photography, video and Illustration websites |
@@ -1764,7 +1766,7 @@
 
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | ⭐ `66,015` | 🍴 `8,143` | A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agen |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | ⭐ `66,017` | 🍴 `8,142` | A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agen |
 | [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | ⭐ `76,529` | 🍴 `12,220` | The iconic SVG, font, and CSS toolkit |
 | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | ⭐ `26,379` | 🍴 `5,568` | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
 | [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) | ⭐ `19,410` | 🍴 `1,179` | A curated list of awesome things related to shadcn/ui. |
@@ -1774,7 +1776,7 @@
 | [humhub/humhub](https://github.com/humhub/humhub) | ⭐ `6,667` | 🍴 `1,675` | HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless free |
 | [plouc/nivo](https://github.com/plouc/nivo) | ⭐ `14,017` | 🍴 `1,071` | nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries |
 | [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) | ⭐ `13,870` | 🍴 `919` | Shoelace is now Web Awesome. Come see what’s new! |
-| [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) | ⭐ `10,748` | 🍴 `617` | A curated list of high quality coding style conventions and standards. |
+| [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) | ⭐ `10,747` | 🍴 `617` | A curated list of high quality coding style conventions and standards. |
 | [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | ⭐ `9,906` | 🍴 `648` | :octocat: Dark GitHub style |
 | [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) | ⭐ `8,907` | 🍴 `803` | The awesome document factory |
 | [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) | ⭐ `14,125` | 🍴 `806` | :city_sunrise: A collection of links for free stock photography, video and Illustration websites |
@@ -1873,18 +1875,18 @@
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | ⭐ `294,525` | 🍴 `27,778` | An opinionated list of Python frameworks, libraries, tools, and resources |
-| [avelino/awesome-go](https://github.com/avelino/awesome-go) | ⭐ `171,081` | 🍴 `13,173` | A curated list of awesome Go frameworks, libraries and software |
+| [avelino/awesome-go](https://github.com/avelino/awesome-go) | ⭐ `171,082` | 🍴 `13,173` | A curated list of awesome Go frameworks, libraries and software |
 | [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) | ⭐ `16,035` | 🍴 `23,220` | An awesome README template to jumpstart your projects!  |
 | [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | ⭐ `74,435` | 🍴 `11,314` | A topic-centric list of HQ open datasets. |
 | [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) | ⭐ `70,937` | 🍴 `8,270` | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. |
-| [akullpp/awesome-java](https://github.com/akullpp/awesome-java) | ⭐ `47,751` | 🍴 `7,668` | A curated list of awesome frameworks, libraries and software for the Java programming language. |
+| [akullpp/awesome-java](https://github.com/akullpp/awesome-java) | ⭐ `47,752` | 🍴 `7,668` | A curated list of awesome frameworks, libraries and software for the Java programming language. |
 | [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | ⭐ `65,525` | 🍴 `6,214` | :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE P |
 | [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | ⭐ `56,968` | 🍴 `3,315` | A curated list of Rust code and resources. |
 | [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | ⭐ `32,505` | 🍴 `5,141` | A curated list of amazingly awesome PHP libraries, resources and shiny things. |
 | [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) | ⭐ `73,606` | 🍴 `9,472` | 🎉 A curated list of awesome things related to Vue.js |
 | [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) | ⭐ `21,292` | 🍴 `2,858` | A collection of awesome .NET libraries, tools, frameworks and software |
 | [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) | ⭐ `47,407` | 🍴 `3,757` | Curated List of React Components & Libraries. |
-| [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | ⭐ `16,286` | 🍴 `1,112` | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources |
+| [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | ⭐ `16,287` | 🍴 `1,112` | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources |
 | [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) | ⭐ `10,004` | 🍴 `1,404` | :page_facing_up: A curated list of awesome Angular resources |
 | [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) | ⭐ `20,827` | 🍴 `3,948` | A curated list of awesome READMEs |
 | [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | ⭐ `25,829` | 🍴 `3,445` | A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance) |
@@ -1906,18 +1908,18 @@
 | Repository | ⭐ Stars | 🍴 Forks | Description |
 | :--- | ---: | ---: | :--- |
 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | ⭐ `294,525` | 🍴 `27,778` | An opinionated list of Python frameworks, libraries, tools, and resources |
-| [avelino/awesome-go](https://github.com/avelino/awesome-go) | ⭐ `171,081` | 🍴 `13,173` | A curated list of awesome Go frameworks, libraries and software |
+| [avelino/awesome-go](https://github.com/avelino/awesome-go) | ⭐ `171,082` | 🍴 `13,173` | A curated list of awesome Go frameworks, libraries and software |
 | [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) | ⭐ `16,035` | 🍴 `23,220` | An awesome README template to jumpstart your projects!  |
 | [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | ⭐ `74,435` | 🍴 `11,314` | A topic-centric list of HQ open datasets. |
 | [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) | ⭐ `70,937` | 🍴 `8,270` | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. |
-| [akullpp/awesome-java](https://github.com/akullpp/awesome-java) | ⭐ `47,751` | 🍴 `7,668` | A curated list of awesome frameworks, libraries and software for the Java programming language. |
+| [akullpp/awesome-java](https://github.com/akullpp/awesome-java) | ⭐ `47,752` | 🍴 `7,668` | A curated list of awesome frameworks, libraries and software for the Java programming language. |
 | [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | ⭐ `65,525` | 🍴 `6,214` | :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE P |
 | [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | ⭐ `56,968` | 🍴 `3,315` | A curated list of Rust code and resources. |
 | [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | ⭐ `32,505` | 🍴 `5,141` | A curated list of amazingly awesome PHP libraries, resources and shiny things. |
 | [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) | ⭐ `73,606` | 🍴 `9,472` | 🎉 A curated list of awesome things related to Vue.js |
 | [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) | ⭐ `21,292` | 🍴 `2,858` | A collection of awesome .NET libraries, tools, frameworks and software |
 | [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) | ⭐ `47,407` | 🍴 `3,757` | Curated List of React Components & Libraries. |
-| [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | ⭐ `16,286` | 🍴 `1,112` | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources |
+| [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | ⭐ `16,287` | 🍴 `1,112` | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources |
 | [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) | ⭐ `10,004` | 🍴 `1,404` | :page_facing_up: A curated list of awesome Angular resources |
 | [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) | ⭐ `20,827` | 🍴 `3,948` | A curated list of awesome READMEs |
 | [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | ⭐ `25,829` | 🍴 `3,445` | A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance) |
@@ -1930,7 +1932,7 @@
 | [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) | ⭐ `17,044` | 🍴 `1,320` | ⚡️ A curated list of awesome things related to Vite.js |
 | [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) | ⭐ `8,290` | 🍴 `1,057` | :beers: awesome cheatsheet |
 | [Respect/Validation](https://github.com/Respect/Validation) | ⭐ `5,935` | 🍴 `775` | The most awesome validation engine ever created for PHP |
-| [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | ⭐ `39,266` | 🍴 `3,350` | 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors |
+| [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | ⭐ `39,265` | 🍴 `3,350` | 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors |
 | [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) | ⭐ `9,325` | 🍴 `1,710` | Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in S |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | ⭐ `6,869` | 🍴 `621` | awesome window manager |
 | [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) | ⭐ `8,551` | 🍴 `520` | Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge  |
@@ -1943,7 +1945,7 @@
 | [phodal/awesome-iot](https://github.com/phodal/awesome-iot) | ⭐ `4,585` | 🍴 `816` | Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform |
 | [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) | ⭐ `25,040` | 🍴 `2,952` | A curated list of awesome places to learn and/or practice algorithms. |
 | [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) | ⭐ `12,944` | 🍴 `1,134` | A curated list of awesome things related to NestJS 😎 |
-| [rossant/awesome-math](https://github.com/rossant/awesome-math) | ⭐ `14,495` | 🍴 `1,416` | A curated list of awesome mathematics resources |
+| [rossant/awesome-math](https://github.com/rossant/awesome-math) | ⭐ `14,496` | 🍴 `1,416` | A curated list of awesome mathematics resources |
 | [Sayi/poi-tl](https://github.com/Sayi/poi-tl) | ⭐ `5,078` | 🍴 `1,132` | Generate awesome word(docx) with template |
 | [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) | ⭐ `4,001` | 🍴 `507` | A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Opt |
 | [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) | ⭐ `7,359` | 🍴 `253` | A curated list of projects related to the reMarkable tablet |
@@ -1980,12 +1982,12 @@
 | [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) | ⭐ `2,268` | 🍴 `384` | 【A common used C++ & Python DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流 |
 | [ankeetmaini/react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component) | ⭐ `3,081` | 🍴 `333` | An awesome Infinite Scroll component in react. |
 | [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) | ⭐ `2,251` | 🍴 `329` | A curated list of testing resources |
+| [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) | ⭐ `3,221` | 🍴 `957` | A collection of awesome resources related to the yearly Advent of Code challenge. |
 | [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) | ⭐ `2,356` | 🍴 `296` |  💸💸 Curated list of investment & finance related resources  |
-| [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | ⭐ `19,794` | 🍴 `1,581` | Elevate your AI research writing, no more tedious polishing ✨  |
+| [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | ⭐ `19,797` | 🍴 `1,581` | Elevate your AI research writing, no more tedious polishing ✨  |
 | [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) | ⭐ `7,552` | 🍴 `404` | A curated list of amazingly awesome Home Assistant resources. |
 | [CodyReichert/awesome-cl](https://github.com/CodyReichert/awesome-cl) | ⭐ `2,925` | 🍴 `215` | A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff. |
 | [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts) | ⭐ `1,962` | 🍴 `1,016` | Curated list of fonts and everything |
-| [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) | ⭐ `3,221` | 🍴 `957` | A collection of awesome resources related to the yearly Advent of Code challenge. |
 | [djadmin/awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) | ⭐ `5,607` | 🍴 `1,044` | A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups. |
 | [streetturtle/awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets) | ⭐ `2,260` | 🍴 `299` | Widgets for Awesome Window Manager |
 | [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) | ⭐ `3,399` | 🍴 `157` | Awesome Typst Links |
@@ -2057,7 +2059,7 @@
 | [heroku/heroku-pg-extras](https://github.com/heroku/heroku-pg-extras) | ⭐ `1,356` | 🍴 `104` | A heroku plugin for awesome pg:* commands that are also great and fun and super. |
 | [minar09/awesome-virtual-try-on](https://github.com/minar09/awesome-virtual-try-on) | ⭐ `3,084` | 🍴 `362` | A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on. |
 | [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) | ⭐ `1,371` | 🍴 `109` | A curated list of software, services, and resources to create and distribute music |
-| [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics) | ⭐ `4,280` | 🍴 `476` | A curated list of analytics frameworks, software and other tools. |
+| [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics) | ⭐ `4,281` | 🍴 `476` | A curated list of analytics frameworks, software and other tools. |
 | [YSGStudyHards/Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools) | ⭐ `1,022` | 🍴 `135` | 🛠Awesome Tools，程序员常用高效实用工具、软件资源精选，办公效率提升利器（A Curated Collection of High-Efficiency and Practical Tools and Software Reso |
 | [sereneblue/awesome-oss](https://github.com/sereneblue/awesome-oss) | ⭐ `1,871` | 🍴 `178` | A list of open source projects with links to contribute or donate. |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | ⭐ `1,017` | 🍴 `173` | 🎉 A curated list of awesome things related to YOURLS |
@@ -2224,7 +2226,7 @@
 | [gokayfem/awesome-vlm-architectures](https://github.com/gokayfem/awesome-vlm-architectures) | ⭐ `1,239` | 🍴 `55` | Famous Vision Language Models and Their Architectures |
 | [michaelbrusegard/awesome-wezterm](https://github.com/michaelbrusegard/awesome-wezterm) | ⭐ `602` | 🍴 `22` | Collections of awesome WezTerm plugins. |
 | [leptos-rs/awesome-leptos](https://github.com/leptos-rs/awesome-leptos) | ⭐ `897` | 🍴 `60` | A collection of awesome libraries in the Leptos ecosystem. |
-| [ai-for-developers/awesome-vibe-coding](https://github.com/ai-for-developers/awesome-vibe-coding) | ⭐ `676` | 🍴 `116` | A hand-picked collection of tools and resources for Vibe Coding |
+| [ai-for-developers/awesome-vibe-coding](https://github.com/ai-for-developers/awesome-vibe-coding) | ⭐ `676` | 🍴 `117` | A hand-picked collection of tools and resources for Vibe Coding |
 | [pion/awesome-pion](https://github.com/pion/awesome-pion) | ⭐ `915` | 🍴 `74` | A curated list of awesome things related to Pion |
 | [uncbiag/Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models) | ⭐ `1,154` | 🍴 `59` | A curated list of foundation models for vision and language tasks |
 | [Furthir/awesome-useful-projects](https://github.com/Furthir/awesome-useful-projects) | ⭐ `1,038` | 🍴 `56` | Curated List of 500+ Open Source Projects for Everyday Use |
@@ -2271,8 +2273,8 @@
 | [hzxie/Awesome-3D-Scene-Generation](https://github.com/hzxie/Awesome-3D-Scene-Generation) | ⭐ `992` | 🍴 `48` | A curated list of awesome 3D scene generation papers. (arXiv 2505.05474) |
 | [caesar0301/awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) | ⭐ `3,378` | 🍴 `475` | A collection of tools developed by other researchers in the Computer Science area to process network traces. All the rig |
 | [sergey-telpuk/nestjs-rbac](https://github.com/sergey-telpuk/nestjs-rbac) | ⭐ `503` | 🍴 `39` | Awesome RBAC for NestJs |
+| [NeuroTechX/awesome-bci](https://github.com/NeuroTechX/awesome-bci) | ⭐ `1,456` | 🍴 `272` | Curated Collection of BCI resources |
 | [uhub/awesome-javascript](https://github.com/uhub/awesome-javascript) | ⭐ `1,039` | 🍴 `168` | A curated list of awesome JavaScript frameworks, libraries and software. |
-| [NeuroTechX/awesome-bci](https://github.com/NeuroTechX/awesome-bci) | ⭐ `1,456` | 🍴 `271` | Curated Collection of BCI resources |
 | [ben-marshall/awesome-open-hardware-verification](https://github.com/ben-marshall/awesome-open-hardware-verification) | ⭐ `602` | 🍴 `57` | A List of Free and Open Source Hardware Verification Tools and Frameworks |
 | [worldcoin/awesome-zkml](https://github.com/worldcoin/awesome-zkml) | ⭐ `1,045` | 🍴 `213` | awesome-zkml repository |
 | [mayuelala/Awesome-Controllable-Video-Generation](https://github.com/mayuelala/Awesome-Controllable-Video-Generation) | ⭐ `727` | 🍴 `43` | [ArXiv 2025]  A survey about controllable video generation: This repo is the official awesome of "Controllable video gen |
@@ -2377,8 +2379,8 @@
 | [cuge1995/awesome-time-series](https://github.com/cuge1995/awesome-time-series) | ⭐ `1,050` | 🍴 `163` | list of papers, code, and other resources |
 | [cdwv/awesome-helm](https://github.com/cdwv/awesome-helm) | ⭐ `1,097` | 🍴 `114` | Collaborative list of awesome helm charts and resources. PRs are welcome! |
 | [NEU-Gou/awesome-reid-dataset](https://github.com/NEU-Gou/awesome-reid-dataset) | ⭐ `1,079` | 🍴 `170` | Collection of public available person re-identification datasets |
+| [tradingview/awesome-tradingview](https://github.com/tradingview/awesome-tradingview) | ⭐ `677` | 🍴 `90` | 🎉 A curated list of awesome things related to TradingView (widgets, charting library, lightweight-charts, etc) |
 | [mll-lab-nu/Awesome-Spatial-Intelligence-in-VLM](https://github.com/mll-lab-nu/Awesome-Spatial-Intelligence-in-VLM) | ⭐ `726` | 🍴 `40` | A paper list for spatial reasoning |
-| [tradingview/awesome-tradingview](https://github.com/tradingview/awesome-tradingview) | ⭐ `676` | 🍴 `90` | 🎉 A curated list of awesome things related to TradingView (widgets, charting library, lightweight-charts, etc) |
 | [nextflow-io/awesome-nextflow](https://github.com/nextflow-io/awesome-nextflow) | ⭐ `625` | 🍴 `95` | A curated list of nextflow based pipelines |
 | [lincolixavier/awesome-extreme-programming](https://github.com/lincolixavier/awesome-extreme-programming) | ⭐ `550` | 🍴 `14` | Uma lista de recursos pra estudar e ir a fundo em ⚡ eXtreme Programming ⚡ |
 | [AxiomeCG/awesome-threejs](https://github.com/AxiomeCG/awesome-threejs) | ⭐ `891` | 🍴 `53` | 3️⃣ A curated list of awesome ThreeJS resources |
