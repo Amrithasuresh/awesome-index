@@ -18,21 +18,21 @@ BASE_URL = "https://api.github.com/search/repositories"
 
 # --- CATEGORIES ---
 CATEGORIES = [
-    ("🤖 AI, LLMs & ChatGPT", ["llm", "gpt", "chatgpt", "openai", "claude", "gemini", "ollama", "langchain", "rag", "agent", "diffusion", "stable-diffusion", "huggingface", "transformers"], []),
-    ("📊 Data Science & ML", ["machine-learning", "deep-learning", "pytorch", "tensorflow", "data-science", "sklearn", "neural-network", "computer-vision", "nlp", "reinforcement-learning"], []),
-    ("🖥️ Operating Systems & Platforms", ["linux", "macos", "windows", "kernel", "unix", "bsd", "embedded", "rtos", "firmware"], []),
-    ("💼 Career, Jobs & Interview", ["interview", "resume", "cv", "career", "job", "hiring", "leetcode", "coding-challenge", "system-design"], []),
-    ("📚 Books, Courses & Learning", ["book", "course", "tutorial", "learning", "education", "curriculum", "roadmap", "beginner"], []),
-    ("🎮 Gaming & Graphics", ["game", "gaming", "opengl", "vulkan", "directx", "unity", "unreal", "gamedev", "shader", "raytracing", "webgl"], []),
-    ("🧬 Science, Medical & Bio", ["bioinformatics", "genomics", "medical", "biology", "chemistry", "physics", "neuroscience", "imaging", "clinical", "covid"], []),
-    ("🛡️ Security & Privacy", ["security", "privacy", "cryptography", "hacking", "pentest", "ctf", "malware", "vulnerability", "infosec", "osint", "zero-trust"], []),
-    ("⚙️ Systems, HPC & Performance", ["hpc", "gpu", "cuda", "parallel", "distributed", "slurm", "performance", "optimization", "benchmark", "low-latency", "simd"], []),
-    ("🌐 Web, Backend & APIs", ["api", "backend", "web", "server", "http", "graphql", "rest", "microservice", "serverless", "nginx", "fastapi", "django", "flask", "express", "nextjs"], []),
-    ("🛠️ Developer Tools", ["cli", "terminal", "shell", "vim", "neovim", "vscode", "devops", "docker", "kubernetes", "ci-cd", "git", "linting", "debugging", "profiling"], []),
-    ("📱 Mobile", ["android", "ios", "react-native", "flutter", "swift", "kotlin", "mobile", "app"], []),
-    ("☁️ Cloud & Infrastructure", ["cloud", "aws", "azure", "gcp", "terraform", "ansible", "infra", "sre", "monitoring", "logging", "observability"], []),
-    ("🗄️ Databases & Storage", ["database", "sql", "nosql", "postgres", "mysql", "redis", "mongodb", "elasticsearch", "vector-database", "storage", "cache"], []),
-    ("🎨 Design & UI", ["design", "ui", "ux", "figma", "css", "tailwind", "icons", "typography", "color", "accessibility"], []),
+    ("🤖 AI, LLMs & ChatGPT", ["llm", "gpt", "chatgpt", "openai", "claude", "gemini", "ollama", "langchain", "rag", "agent"], []),
+    ("📊 Data Science & ML", ["machine-learning", "deep-learning", "pytorch", "tensorflow", "data-science", "nlp"], []),
+    ("🖥️ Operating Systems & Platforms", ["linux", "windows", "macos", "kernel"], []),
+    ("💼 Career, Jobs & Interview", ["interview", "resume", "career", "job"], []),
+    ("📚 Books, Courses & Learning", ["book", "course", "tutorial", "learning"], []),
+    ("🎮 Gaming & Graphics", ["game", "opengl", "unity", "unreal"], []),
+    ("🧬 Science, Medical & Bio", ["bioinformatics", "medical", "biology"], []),
+    ("🛡️ Security & Privacy", ["security", "privacy", "hacking", "ctf"], []),
+    ("⚙️ Systems, HPC & Performance", ["hpc", "gpu", "cuda", "slurm"], []),
+    ("🌐 Web, Backend & APIs", ["api", "backend", "web", "fastapi", "django"], []),
+    ("🛠️ Developer Tools", ["cli", "devops", "docker", "kubernetes"], []),
+    ("📱 Mobile", ["android", "ios", "flutter"], []),
+    ("☁️ Cloud & Infrastructure", ["cloud", "aws", "terraform"], []),
+    ("🗄️ Databases & Storage", ["database", "sql", "redis"], []),
+    ("🎨 Design & UI", ["design", "ui", "ux"], []),
 ]
 
 STAR_TIERS = [
@@ -41,13 +41,12 @@ STAR_TIERS = [
     "20001..50000", ">50000"
 ]
 
-
 # ---------------------------------------------------------------------------
 # ANCHOR FIX
 # ---------------------------------------------------------------------------
 
 def make_anchor(cat):
-    """Generate stable anchor (fix for GitHub jump issue)."""
+    """Generate stable GitHub-safe anchor"""
     anchor = cat.lower()
     anchor = anchor.encode('ascii', 'ignore').decode()
     anchor = re.sub(r'[^\w\s-]', '', anchor)
@@ -57,11 +56,11 @@ def make_anchor(cat):
 
 
 # ---------------------------------------------------------------------------
-# TRENDING (NEW)
+# TRENDING
 # ---------------------------------------------------------------------------
 
 def trending_score(repo):
-    """Simple trending: stars per day since creation."""
+    """Stars per day metric"""
     stars = repo.get("stargazers_count", 0)
     created = repo.get("created_at", "")
 
@@ -81,19 +80,16 @@ def trending_score(repo):
 # ---------------------------------------------------------------------------
 
 def get_category(repo):
-    name = repo.get("full_name", "").lower()
-    desc = (repo.get("description") or "").lower()
-    topics = [t.lower() for t in repo.get("topics", [])]
-    content = f"{name} {desc} {' '.join(topics)}"
+    text = (repo.get("name", "") + " " + (repo.get("description") or "")).lower()
 
     best_cat = "📦 Miscellaneous"
     best_score = 0
 
-    for cat_name, keywords, _ in CATEGORIES:
-        score = sum(1 for kw in keywords if kw in content)
+    for cat, keywords, _ in CATEGORIES:
+        score = sum(1 for kw in keywords if kw in text)
         if score > best_score:
             best_score = score
-            best_cat = cat_name
+            best_cat = cat
 
     return best_cat
 
@@ -173,11 +169,10 @@ def generate_readme(repos):
         f.write("## 🔍 What is this?\n\n")
         f.write(
             f"A single searchable index of `{len(repos):,}` curated awesome lists across GitHub, "
-            "auto-updated every Sunday. Covers AI, LLMs, Security, DevTools, Mobile, "
-            "Cloud, Databases, and more.\n\n"
+            "auto-updated every Sunday.\n\n"
         )
 
-        # 🔥 TRENDING
+        # TRENDING
         f.write("## 🔥 Trending Now\n\n")
         f.write("| Repository | ⭐ Stars | 🍴 Forks | Description |\n")
         f.write("| :--- | ---: | ---: | :--- |\n")
@@ -203,7 +198,7 @@ def generate_readme(repos):
 
         f.write("\n---\n\n")
 
-        # SECTIONS
+        # SECTIONS WITH TOGGLE
         for cat, items in categorized.items():
             if not items:
                 continue
@@ -213,13 +208,48 @@ def generate_readme(repos):
             f.write(f'<a name="{anchor}"></a>\n')
             f.write(f"## {cat}\n\n")
 
+            # TOP
+            f.write(f"### 🏆 Top {min(TOP_N, len(items))}\n\n")
+            f.write("| Repository | ⭐ Stars | 🍴 Forks | Description |\n")
+            f.write("| :--- | ---: | ---: | :--- |\n")
+
             for r in items[:TOP_N]:
                 desc = (r.get("description") or "").replace("|", " ")[:100]
-                f.write(f"- [{r['full_name']}]({r['html_url']}) — ⭐ {r['stargazers_count']}\n")
+                f.write(
+                    f"| [{r['full_name']}]({r['html_url']}) "
+                    f"| ⭐ `{r['stargazers_count']}` "
+                    f"| 🍴 `{r['forks_count']}` "
+                    f"| {desc} |\n"
+                )
+
+            # FULL LIST TOGGLE
+            if len(items) > TOP_N:
+                f.write("\n<details>\n")
+                f.write(f"<summary><b>👉 View all {len(items)} repositories</b></summary>\n\n")
+
+                for i in range(0, len(items), CHUNK_SIZE):
+                    chunk = items[i:i + CHUNK_SIZE]
+
+                    f.write(f"#### 📄 Page {(i // CHUNK_SIZE) + 1}\n\n")
+                    f.write("| Repository | ⭐ Stars | 🍴 Forks | Description |\n")
+                    f.write("| :--- | ---: | ---: | :--- |\n")
+
+                    for r in chunk:
+                        desc = (r.get("description") or "").replace("|", " ")[:100]
+                        f.write(
+                            f"| [{r['full_name']}]({r['html_url']}) "
+                            f"| ⭐ `{r['stargazers_count']}` "
+                            f"| 🍴 `{r['forks_count']}` "
+                            f"| {desc} |\n"
+                        )
+
+                    f.write("\n")
+
+                f.write("</details>\n\n")
 
             f.write("\n")
 
-    print("✅ README generated")
+    print("✅ README generated with toggle restored.")
 
 
 # ---------------------------------------------------------------------------
