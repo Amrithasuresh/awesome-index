@@ -1,5 +1,6 @@
 import requests
 import os
+import re
 from datetime import datetime, timedelta
 import time
 import math
@@ -51,6 +52,15 @@ TRENDING_DAYS = 30  # Window for trending score calculation
 def chunk_list(lst, size):
     for i in range(0, len(lst), size):
         yield lst[i:i + size]
+
+
+def make_anchor(cat):
+    """Generate a GitHub-compatible anchor from a heading string."""
+    anchor = cat.lower()
+    anchor = re.sub(r'[^\w\s-]', '', anchor)   # strip emojis and punctuation
+    anchor = re.sub(r'[\s]+', '-', anchor)      # spaces to hyphens
+    anchor = re.sub(r'-+', '-', anchor)         # collapse double hyphens
+    return anchor.strip('-')
 
 
 def get_category(repo):
@@ -348,8 +358,7 @@ def generate_readme(repos):
         f.write("## 📂 Categories\n\n")
         for cat, items in categorized.items():
             if items:
-                anchor = cat.lower().replace(" ", "-").replace(",", "").replace("&", "").replace("__", "_")
-                f.write(f"- [{cat}](#{anchor}) `{len(items)}`\n")
+                f.write(f"- [{cat}](#{make_anchor(cat)}) `{len(items)}`\n")
         f.write("\n---\n\n")
 
         # ── CATEGORY SECTIONS ────────────────────────────────────────────────
