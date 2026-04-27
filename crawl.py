@@ -322,7 +322,7 @@ def generate_readme(repos):
     with open("README.md", "w", encoding="utf-8") as f:
 
         # ── HEADER ──────────────────────────────────────────────────────────
-        f.write("# 🚀 Elite Awesome Index\n\n")
+        f.write("# 🚀 Awesome Index\n\n")
         f.write(
             f"**Last Updated:** `{now}`  \n"
             f"**Total Repositories:** `{stats_total}`  \n"
@@ -384,7 +384,7 @@ def generate_readme(repos):
         # ── FOOTER ───────────────────────────────────────────────────────────
         f.write("---\n")
         f.write(
-            "⭐ Auto-curated by [Elite Awesome Index](https://github.com). "
+            "⭐ Auto-curated by [Awesome Index](https://github.com). "
             "Quality score combines stars, forks, recency, licensing, and topic richness.\n"
         )
 
