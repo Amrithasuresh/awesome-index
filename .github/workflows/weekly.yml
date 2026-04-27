@@ -25,7 +25,7 @@ jobs:
         run: pip install requests
 
       - name: Run update script
-        run: python update_list.py
+        run: python crawl.py
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
